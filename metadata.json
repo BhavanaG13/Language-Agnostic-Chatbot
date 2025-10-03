@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Polyglot Pal - Language Agnostic Chatbot",
+  "description": "A sleek, language-agnostic chatbot powered by the Gemini API. Engage in seamless, multi-turn conversations in any language, with real-time streaming responses for a natural and interactive experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
